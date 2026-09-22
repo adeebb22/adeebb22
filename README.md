@@ -79,9 +79,9 @@ Angular → ASP.NET Core → SQL Server → REST APIs → Application Architectu
 
 ## Connect
 
-**LinkedIn:** [Your LinkedIn]
+**LinkedIn:** https://www.linkedin.com/in/adeeb-pa-20a25b255?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
-**Email:** [Your Email]
+**Email:** adeebameen17@gmail.com
 
 **GitHub:** [https://github.com/adeebb22](https://github.com/adeebb22)
 
