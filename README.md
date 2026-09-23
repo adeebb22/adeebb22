@@ -85,7 +85,7 @@ Angular → ASP.NET Core → SQL Server → REST APIs → Application Architectu
 
 **GitHub:** [https://github.com/adeebb22](https://github.com/adeebb22)
 
-**Instagram:**(https://www.instagram.com/adeeebameen/)
+**Instagram:**https://www.instagram.com/adeeebameen/
 
 <!--
 **adeebb22/adeebb22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
